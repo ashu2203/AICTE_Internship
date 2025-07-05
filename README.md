@@ -32,8 +32,8 @@ The model predicts:
 ## Model Performance
 The model was estimated using:
 
-R² Score
-Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
 
 ---
 ## How to Run
