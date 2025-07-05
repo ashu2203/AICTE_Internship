@@ -37,6 +37,5 @@ Mean Squared Error (MSE)
 
 ---
 ## How to Run
-pip install -r requirements.txt
 streamlit run app.py
 
