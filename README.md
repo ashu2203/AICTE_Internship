@@ -2,10 +2,13 @@
 # Water Quality Prediction using Machine Learning
 This project predicts water quality parameters using Random Forest Regressor (RFR). Given inputs like year and station ID, it forecasts water quality indicators to support pollution monitoring.
 
+---
 ## Overview
- automates the prediction of key water quality parameters using machine learning, addressing critical needs in public health, agriculture, and environmental sustainability
- Using a Random Forest Regressor (RFR), the model predicts key water quality parameters from inputs like year and station ID, helping detect pollution trends early and support better water management decisions
- This project supports smarter, data-driven water quality assessment for drinking, industrial, and environmental use
+- Automates the prediction of key water quality parameters using machine learning, addressing critical needs in public health, agriculture, and environmental sustainability
+- Using a Random Forest Regressor (RFR), the model predicts key water quality parameters from inputs like year and station ID, helping detect pollution trends early and support better water management decisions
+- This project supports smarter, data-driven water quality assessment for drinking, industrial, and environmental use
+
+---
 ## Technologies Used
 - Python
 - Pandas / NumPy
@@ -14,6 +17,7 @@ This project predicts water quality parameters using Random Forest Regressor (RF
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+---
 ## Predicted Water Quality Parameters
 The model predicts:
 - pH
@@ -24,12 +28,14 @@ The model predicts:
 - CL
 - Colloids
 
+---
 ## Model Performance
 The model was estimated using:
 
 R² Score
 Mean Squared Error (MSE)
 
+---
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
